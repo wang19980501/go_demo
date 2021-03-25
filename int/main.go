@@ -1,10 +1,9 @@
 package main
 
 import "fmt"
-import "math"
 
-func main()  {
+func main() {
 	i := 100
 	fmt.Printf("%T", i)
-	
+	math
 }
